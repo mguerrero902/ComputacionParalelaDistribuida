@@ -28,7 +28,7 @@ Se crearon 3 benchmark de multiplicación de matrices en lenguajes C, C++. Está
 Para la instalación, se recomienda descargar las carpeta fuentes que contienen los códigos utilizados. <br>
 
 ## Compilación
-Se debe ingresar a la carpeta fuentes y ejecutar los comando make MMc01, make Bench01 y make benchRefence con esto ya se generará la compilación.
+Se debe ingresar a la carpeta de los fuentes descargados y ejecutar los comando make MMc01, make Bench01 y make benchRefence con esto ya se generará la compilación.
 
 
 
